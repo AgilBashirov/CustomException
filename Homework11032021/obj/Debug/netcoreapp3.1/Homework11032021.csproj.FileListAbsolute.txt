@@ -1,0 +1,14 @@
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.exe
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.deps.json
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.runtimeconfig.json
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.dll
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\bin\Debug\netcoreapp3.1\Homework11032021.pdb
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.AssemblyInfo.cs
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.dll
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.pdb
+C:\Users\agilab\source\repos\Homework11032021\Homework11032021\obj\Debug\netcoreapp3.1\Homework11032021.genruntimeconfig.cache
